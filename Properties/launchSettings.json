@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "hands_on___azure_functions___validar_cpf": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7005",
+      "launchBrowser": false
+    }
+  }
+}
